@@ -1,0 +1,24 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "NodeJs Playground",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "watch": "nodemon -w index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YaronMiro/NodeJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YaronMiro/NodeJs/issues"
+  },
+  "homepage": "https://github.com/YaronMiro/NodeJs#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
