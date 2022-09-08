@@ -20,5 +20,8 @@
   "homepage": "https://github.com/YaronMiro/NodeJs#readme",
   "devDependencies": {
     "nodemon": "^2.0.19"
+  },
+  "dependencies": {
+    "yargs": "^17.5.1"
   }
 }
